@@ -20,6 +20,7 @@ Il est ainsi plus facile de restaurer un ou plusieurs fichiers individuels depui
 
 Vous ne pouvez pas attacher de VMDK à partir des sauvegardes vvol.
 
+.Description de la tâche
 Vous disposez des options d'attache suivantes :
 
 * Vous pouvez attacher des disques virtuels à partir d'une sauvegarde primaire ou secondaire.
@@ -72,4 +73,5 @@ La page Modifier les paramètres répertorie les disques de la machine virtuelle
 
 
 
+.Résultat
 Vous pouvez accéder aux disques connectés à partir du système d'exploitation hôte, puis extraire les informations requises des disques.
